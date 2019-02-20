@@ -12,7 +12,7 @@ First the basic requirements:
 The basic reasoning for these requirements is that, you get to keep your SGS in your local wallet and host your masternode remotely, securely.
 
 # Configuration
-**Note: The auto zSGS minter should be disabled during this setup to prevent autominting of your masternode collateral. BEFORE unlocking your wallet, you can disable autominting in the control wallet option menu.
+** Note: The auto zSGS minter should be disabled during this setup to prevent autominting of your masternode collateral. BEFORE unlocking your wallet, you can disable autominting in the control wallet option menu.
 
 ![Disable zSGS](https://github.com/safegames/documentation/blob/master/images/zSGS%20disable.gif)
 
